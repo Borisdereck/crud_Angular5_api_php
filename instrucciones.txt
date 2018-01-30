@@ -1,0 +1,8 @@
+REQUISITOS 
+1-.Tener un instalado xampp o wamp
+2 Tener instalado un editor de Codigo (ATOM , Visual Studio Code)
+
+INSTRUCCIONES 
+1 exportar la base de datos (bbdd.sql)
+2 mover la carpeta (crud_angular5_api_php) a C:\xampp\htdocs
+
